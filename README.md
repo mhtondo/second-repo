@@ -1,3 +1,3 @@
 # Second
 
-My second repository.
+Hi there! This is my second repository.
